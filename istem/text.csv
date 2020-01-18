@@ -1,0 +1,104 @@
+,data
+0,"Geoffrey Everest Hinton (born 6 December 1947) is an English Canadian cognitive psychologist and computer
+"
+1,"scientist, most noted for his work on artificial neural networks. Since 2013 he divides his time working for
+"
+2,"Google (Google Brain) and the University of Toronto. In 2017, he cofounded and became the Chief Scientific
+"
+3,"Advisor of the Vector Institute in Toronto. With David E. Rumelhart and Ronald J. Williams, Hinton was co-
+"
+4,"author of a highly cited paper published in 1986 that popularized the backpropagation algorithm for training
+"
+5,"multi-layer neural networks, although they were not the first to propose the approach. Hinton is viewed by some
+"
+6,"as a leading figure in the deep learning community and is referred to by some as the ""Godfather of Deep
+"
+7,"Learning"". The dramatic image-recognition milestone of the AlexNet designed by his student Alex Krizhevsky
+"
+8,"for the ImageNet challenge 2012 helped to revolutionize the field of computer vision. Hinton was awarded the
+"
+9,"2018 Turing Prize alongside Yoshua Bengio and Yann LeCun for their work on deep learning.Hinton - together
+"
+10,"with Yoshua Bengio and Yann LeCun - are referred to by some as the ""Godfathers of AI"". Education Hinton was
+"
+11,"educated at King\'s College, Cambridge graduating in 1970, with a Bachelor of Arts in experimental psychology.
+"
+12,"He continued his study at the University of Edinburgh where he was awarded a PhD in artificial intelligence in
+"
+13,"1978 for research supervised by Christopher Longuet-Higgins.Career and research After his PhD he worked at
+"
+14,"the University of Sussex, and (after difficulty finding funding in Britain) the University of California, San Diego,
+"
+15,"and Carnegie Mellon University. He was the founding director of the Gatsby Charitable Foundation
+"
+16,"Computational Neuroscience Unit at University College London, and is currently a professor in the computer
+"
+17,"science department at the University of Toronto. He holds a Canada Research Chair in Machine Learning, and is
+"
+18,"currently an advisor for the Learning in Machines & Brains program at the Canadian Institute for Advanced
+"
+19,"Research. Hinton taught a free online course on Neural Networks on the education platform Coursera in 2012.
+"
+20,"Hinton joined Google in March 2013 when his company, DNNresearch Inc., was acquired. He is planning to
+"
+21,"""divide his time between his university research and his work at Google"".Hinton\'s research investigates ways of
+"
+22,"using neural networks for machine learning, memory, perception and symbol processing. He has authored or co-
+"
+23,"authored over 200 peer reviewed publications.While Hinton was a professor at Carnegie Mellon University
+"
+24,"(1982-1987), David E. Rumelhart and Hinton and Ronald J. Williams applied the backpropagation algorithm to
+"
+25,"multi-layer neural networks. Their experiments showed that such networks can learn useful internal
+"
+26,"representations of data. In an interview of 2018, Hinton said that ""David E. Rumelhart came up with the basic
+"
+27,"idea of backpropagation, so it\'s his invention."" Although this work was important in popularizing
+"
+28,"backpropagation, it was not the first to suggest the approach. Reverse-mode automatic differentiation, of which
+"
+29,"backpropagation is a special case, was proposed by Seppo Linnainmaa in 1970, and Paul Werbos proposed to use
+"
+30,"it to train neural networks in 1974.During the same period, Hinton co-invented Boltzmann machines with David
+"
+31,"Ackley and Terry Sejnowski. His other contributions to neural network research include distributed
+"
+32,"representations, time delay neural network, mixtures of experts, Helmholtz machines and Product of Experts. In
+"
+33,"2007 Hinton coauthored an unsupervised learning paper titled Unsupervised learning of image transformations.
+"
+34,"An accessible introduction to Geoffrey Hinton\'s research can be found in his articles in Scientific American in
+"
+35,"September 1992 and October 1993.. \nIn October and November 2017 respectively, Hinton published two open
+"
+36,"access research papers on the theme of capsule neural networks, which according to Hinton are ""finally
+"
+37,"something that works well.""Notable former PhD students and postdoctoral researchers from his group include
+"
+38,"Richard Zemel, Brendan Frey, Radford M. Neal, Ruslan Salakhutdinov, Ilya Sutskever, Yann LeCun and Zoubin
+"
+39,"Ghahramani.Honours and awards Hinton was elected a Fellow of the Royal Society (FRS) in 1998. He was the
+"
+40,"first winner of the Rumelhart Prize in 2001. His certificate of election for the Royal Society reads: \n\nIn 2001,
+"
+41,"Hinton was awarded an Honorary Doctorate from the University of Edinburgh. He was the 2005 recipient of the
+"
+42,"IJCAI Award for Research Excellence lifetime-achievement award. He has also been awarded the 2011 Herzberg
+"
+43,"Canada Gold Medal for Science and Engineering. In 2013, Hinton was awarded an Honorary Doctorate from the
+"
+44,"Université de Sherbrooke.In 2016, he was elected a foreign member of National Academy of Engineering ""For
+"
+45,"contributions to the theory and practice of artificial neural networks and their application to speech recognition
+"
+46,"and computer vision"". He also received the 2016 IEEE/RSE Wolfson James Clerk Maxwell Award.He has won
+"
+47,"the BBVA Foundation Frontiers of Knowledge Award (2016) in the Information and Communication
+"
+48,"Technologies category ""for his pioneering and highly influential work"" to endow machines with the ability to
+"
+49,"learn. Together with Yann LeCun, and Yoshua Bengio, Hinton won the 2018 Turing Award for conceptual and
+"
+50,"engineering breakthroughs that have made deep neural networks a critical component of computing. Personal life
+"
+51,Hinton is the great-great-grandson both of logician George

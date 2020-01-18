@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <script src="index6/angular.min.js"></script>
+    <title>Smart Analyzer</title>
+
+    <link rel="stylesheet" href="index6/bootstrap.min.css">
+
+
+
+	<script src="api.js"></script>
+	<link rel="stylesheet" href="main.css" />
+</head>
+
+<body ng-app="myApp" ng-controller="myCtrl">
+	
+			<section id="sidebar">
+				<div class="inner">
+					<nav>
+						<ul>
+							<li><a href="#capture">Capture</a></li>
+							<li><a href="#read">Read</a></li>
+							<li><a href="#files2">File Upload</a></li>
+						</ul>
+					</nav>
+				</div>
+			</section>
+
+			<div id="wrapper">
+
+				<!-- Capture -->
+					<section id="capture" class="wrapper style1 fullscreen fade-up">
+						<div class="inner">
+							<h1>Capture</h1>
+							<p>Provision for capturing the image using mobile camera application</p>
+						</div>
+					</section>
+					<section id="capture2" class="wrapper style1 fullscreen fade-up" ng-click="imgread()" ondblClick="location.href ='intent://?ret=https%3A%2F%2Fwww.google.co.in?QueryStringParameter=#Intent;scheme=schemename;package=com.pas.webcam;end'">
+                                                <div class="inner">
+                                                        <h1>Capture</h1>
+                                                        <p>Provision for capturing the image using mobile camera application</p>
+                                                </div>
+                                        </section>
+
+				<!-- Read -->
+					<section id="read" class="wrapper style2 spotlights">
+						<section>
+							
+							<div class="content">
+								<div class="inner">
+									<h1>Read</h1><br><br>
+									<p>Read textual information and gain insight from a PDF file.</p>
+								</div>
+							</div>
+						</section>
+					</section>
+					<section id="read2" class="wrapper style2 spotlights">
+                                                <section>
+
+                                                        <div class="content">
+                                                                <div class="inner">
+                                                                        <h1>Read</h1>
+                                                                        <p>Read textual information and gain insight from a PDF file.</p>
+                                                                </div>
+                                                        </div>
+                                                </section>
+                                        </section>
+					<section id="files2" class="wrapper style1 spotlights">
+
+                                 		<section>
+											<div class="content">
+                                                                <div class="inner">
+																	<h1>File Upload</h1><br><br>
+																		<input type="file" style="font-size:24px"  id="myFile" accept=".pdf">
+                                                                </div>
+                                                        </div>
+
+
+										</section>
+										</section>
+					<section id="last" class="wrapper style3 spotlights">
+
+                                        <section>
+                                            <div class="content">
+                                                                <div class="inner">
+																	<h1>Please Select</h1><br><br>
+                                                                		<button ng-click="keyword()" class="btn btn-info" style="font-size:12px">Keyword</button>
+																		<button ng-click="summary()" class="btn btn-info" style="font-size:12px;margin-left:30px">Summary</button>
+																		<button ng-click="read()" class="btn btn-info" style="font-size:12px;margin-left:30px">Read Text</button>
+																</div>
+                                                        </div>
+
+
+                                        </section>
+                                        </section>
+						
+			</div>
+
+    
+
+   
+    <script src="index6/jquery-3.3.1.slim.min.js"></script>
+
+
+    <script src="index6/bootstrap.min.js"></script>
+	
+</body>
+<footer>
+       <center> <span style="color:white">Inclusive-Stem Confluence 2020</span></center>
+</footer>
+</html>
